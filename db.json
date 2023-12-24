@@ -10,17 +10,6 @@
         "bio": "test",
         "address": "test",
         "id": 1
-      },
-      {
-        "firstName": "Ime",
-        "lastName": "Prezime",
-        "email": "Mail@gmail.com",
-        "password": "test1",
-        "confirmPassword": "test1",
-        "phoneNumber": "0711234",
-        "bio": "test",
-        "address": "adresa",
-        "id": 2
       }
     ],
   
